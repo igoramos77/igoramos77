@@ -1,5 +1,5 @@
-### Hi there 👋
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igoramos77)](https://github.com/igoramos77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoramos77)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoramos77)](https://github.com/igoramos77/github-readme-stats)
 
