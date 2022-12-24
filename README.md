@@ -3,7 +3,7 @@
 
 ## Hi, I'm Igor Brown 👨‍💻
 
-I am a Software Engineering and Marketing graduate and i'm working as a frontend developer at  [@px-tecnologia.](https://github.com/px-tecnologia)
+I am a Software Engineering and Marketing graduate and i'm working as a frontend engineer at  [@px-tecnologia.](https://github.com/px-tecnologia)
 
 Studying:
 
