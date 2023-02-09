@@ -11,6 +11,7 @@ Studying:
 -   Expo
 -   Prisma
 -   Clean code
+-   Artificial intelligence
 
 
 # 
