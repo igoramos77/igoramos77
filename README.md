@@ -8,6 +8,7 @@ I am a Software Engineering and Marketing graduate and i'm working as a frontend
 Studying:
 
 -   Gamification for learning
+-   Next.js
 -   Expo
 -   Prisma
 -   Clean code
