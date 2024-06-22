@@ -11,6 +11,7 @@ Studying:
 -   Next.js
 -   Expo
 -   Prisma
+-   Supabase
 -   Clean code
 -   Artificial intelligence
 
