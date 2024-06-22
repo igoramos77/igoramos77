@@ -19,7 +19,7 @@ Studying:
 # 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,next,electron,styledcomponents,nodejs,express,prisma,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,next,electron,styledcomponents,nodejs,express,prisma,supabase,postgres,mongo" />
   </a>
 </p>
 
